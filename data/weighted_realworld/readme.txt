@@ -1,1 +1,1 @@
-
+The realworld benchmark is composed of 26 weighted networks from various practical applications, such as social network, transportation networks, communication networks, bilogical networks, and power networks. They are generated based on the original CNP instances.
