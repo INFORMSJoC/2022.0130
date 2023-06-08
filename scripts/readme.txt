@@ -34,10 +34,10 @@ NbrRepats is the number of times of running the program
                              For Solving Weighted CNP Instances
 *****************************************************************************************************************************************************
 Under a Windows OS system, please run the executable pragram 'Weighted_IRMS.exe' with following five parameters
-InstanceName is the name of each weighted instance, e.g., 
-Dataset is the type of the tested wegithed instance
-TimeLimit is the time limit (in seconds) for each run of program
-NbrRepats is the number of times of running the program
+InstanceName is the name of each weighted instance, e.g., Bovine.txt_weight.txt
+Dataset is the type of the tested wegithed instance, e.g., weighted_realworld
+TimeLimit is the time limit (in seconds) for each run of program, e.g., 3600
+NbrRepats is the number of times of running the program, e.g., 20
 ————————————————————————————————————————
 ./Weighted_IRMS.exe  InstanceName  Dataset  TimeLimit  NbrRepeats
 ————————————————————————————————————————
