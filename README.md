@@ -9,7 +9,9 @@ This study considers a well-known critical node detection problem that aims to m
 Critical Node Problem; Memetic Search; Instance Reduction; Reduce-Solve-Combine; Heuristic Search.
 
 ## Instances and results
-We have considered two classes of benchmark instances, called synthetic instances and realworld instances, which can be found in the two folders "Synthetic Benchmark" and "Realworld Benchmark" of the subdirectory"data" of IRMS, respectively. The specific illustration of instances can be found in the file "Data Format Description.txt"  in each folder for the two classes of instances. The source files for the method IRMS  is in "IRMS/src". The method IRMS is coded with C++. Guidances for implementation can be found in the file "IRMS/README.pdf". Meanwhile, the results output by these three methods are available in folder “IRMS/results”. Each folder also contains a script to verify the correctness of the results. 
+We have considered two classes of CNP benchmark instances, called synthetic instances and realworld instances, which can be found in the two folders "synthetic" and "realworld" of the subdirectory"data" of IRMS, respectively. Also, we provide Weighted CNP benchmark instances, called weighted synthetic instances and weighted realworld instances, which can be found in the two folders "weighted_synthetic" and "weighted_realworld" of the subdirectory"data" of IRMS, respectively. 
+
+The specific illustration of instances can be found in the file "readme.txt"  in each folder for each type of instances. The source files for the method IRMS  is in "src". The method IRMS is coded with C++. Guidances for implementation can be found in the file "readme.txt". Meanwhile, the results output and figures by these methods are available in folder “results”. Each folder also contains a "readme.txt". 
 
 ## Paper Entry
 Yangming Zhou, Jiaqi Li, Jin-Kao Hao, Fred Glover. ["Detecting Critical Nodes in Sparse Graphs via "Reduce-Solve-Combine" Memetic Search"](https://doi.org/10.1287/ijoc.2022.0130). INFORMS Journal On Computing, 2023.
